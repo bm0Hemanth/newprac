@@ -1,0 +1,20 @@
+Git Real-Time Team Practice Lab
+
+4 Developers + Feature Branches + PR/MR + Rebase + Merge Conflicts
+
+This lab simulates a real company Git workflow.
+
+We have:
+
+- "main" → production branch
+- "develop" → integration branch
+- 4 developers
+- Each developer works on a separate feature branch
+- Developers create commits
+- Developers push feature branches
+- Developers create PR/MR
+- Developers rebase with "develop"
+- We intentionally create merge conflicts
+- Developers resolve conflicts
+- PR/MR is reviewed and merged
+- Finally "develop" is merged into "main"
