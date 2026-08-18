@@ -17,7 +17,6 @@ We have:
 - We intentionally create merge conflicts
 - Developers resolve conflicts
 - PR/MR is reviewed and merged
-- Finally "develop" is merged into "main"
 
 1. Team Structure
 
