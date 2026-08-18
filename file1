@@ -18,3 +18,18 @@ We have:
 - Developers resolve conflicts
 - PR/MR is reviewed and merged
 - Finally "develop" is merged into "main"
+
+1. Team Structure
+
+                         main
+                          |
+                          |
+                       develop
+                          |
+          +---------------+---------------+
+          |               |               |
+          |               |               |
+     Developer 1      Developer 2     Developer 3      Developer 4
+          |               |               |               |
+          ↓               ↓               ↓               ↓
+   feature/login    feature/cart   feature/payment   feature/profile
